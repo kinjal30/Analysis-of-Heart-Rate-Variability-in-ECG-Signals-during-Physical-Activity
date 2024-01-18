@@ -1,1 +1,25 @@
-# ECG-Terminal-Analysis
+# ECG Data Analysis
+
+This repository contains Python code for processing and analyzing ECG (Electrocardiogram) data. The code performs various tasks, including importing ECG data, plotting signals, detecting R-peaks, calculating heart periods, and analyzing heart rate over time.
+
+Used following dependencies:
+- Python
+- pandas
+- matplotlib
+- numpy
+
+Code Structure:
+main.py: Main script for ECG data analysis.
+ECG_hw1.csv: Sample ECG data file.
+beat_occurrences.csv: CSV file containing detected beats and corresponding ECG amplitudes.
+
+Results
+The analysis provides insights into heart rate variations over time, R-peaks detection, and overall ECG signal characteristics.
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+You can install the required libraries using the following command:
+
+```bash
+pip install pandas matplotlib numpy
