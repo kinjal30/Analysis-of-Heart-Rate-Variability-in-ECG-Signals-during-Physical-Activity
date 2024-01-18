@@ -14,17 +14,11 @@ ECG_hw1.csv: Sample ECG data file.
 beat_occurrences.csv: CSV file containing detected beats and corresponding ECG amplitudes.
 
 Results
-The analysis provides insights into heart rate variations over time, R-peaks detection, and overall ECG signal characteristics.
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+The analysis provides insights into heart rate variations over time, R-peaks detection, and overall ECG signal characteristics.
 
 ![ECG_Signal](https://github.com/kinjal30/ECG-Terminal-Analysis/assets/46399913/0f1fd20f-a11d-481b-ad78-e5560c833084)
 
 You can install the required libraries using the following command:
 ```bash
 pip install pandas matplotlib numpy
-
-
-
-
