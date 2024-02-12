@@ -1,6 +1,8 @@
 # ECG Data Analysis
 
-This repository contains Python code for processing and analyzing ECG (Electrocardiogram) data. The code performs various tasks, including importing ECG data, plotting signals, detecting R-peaks, calculating heart periods, and analyzing heart rate over time.
+This repository contains Python code for processing and analyzing ECG (Electrocardiogram) data. This project involved the analysis of ECG (Electrocardiogram) data using Python. It included tasks such as importing and visualizing the ECG signal using matplotlib and pandas libraries, identifying R-peaks in the signal to calculate heart periods, and plotting heart rate over time. Additionally, the project utilized techniques like peak detection and statistical analysis to extract meaningful insights from the ECG data. The final result showcased dynamic changes in heart rate, potentially indicating physical activity. 
+
+
 
 Used following dependencies:
 - Python
